@@ -31,14 +31,9 @@
 
 * Hacer primero unos bocetos de cada página
 * Crear una estructura de archivos así:
-** Una carpeta llamada css para los estilos y un archivo llamado styles.css
-** Una carpeta de images con los archivos .png y .jpg
-** Un archivo index.html
-** Un archivo mensaje.html
-** Un archivo Nosotros.html
-** Un archivo Servicios.html
-
-
-
-
-
+: Una carpeta llamada css para los estilos y un archivo llamado styles.css
+: Una carpeta de images con los archivos .png y .jpg
+: Un archivo index.html
+: Un archivo mensaje.html
+: Un archivo Nosotros.html
+: Un archivo Servicios.html
